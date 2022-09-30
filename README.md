@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=juniorloch&no-frame=true&no-bg=true&margin-w=5&margin-h=5&theme=darkhub&column=-1" alt="juniorloch" />
+        <img src="https://github-profile-trophy.vercel.app/?username=juniorloch&no-frame=true&margin-w=5&margin-h=5&column=-1&theme=radical" alt="juniorloch" />
     </a> 
 </p>
 
@@ -71,13 +71,13 @@
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorloch&show_icons=true&theme=dark&title_color=6694ff&text_color=ffffff&locale=en&layout=compact" alt="juniorloch" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorloch&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=juniorloch&show_icons=true&theme=dark&title_color=6694ff&text_color=ffffff&locale=en" alt="juniorloch" />
+<img  src="https://github-readme-stats.vercel.app/api?username=juniorloch&show_icons=true&locale=en&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=juniorloch&theme=dark" alt="juniorloch" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=juniorloch&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
