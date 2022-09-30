@@ -71,13 +71,13 @@
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorloch&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="juniorloch" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorloch&show_icons=true&locale=pt-br&layout=compact&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=juniorloch&show_icons=true&locale=en&hide_border=true&theme=radical" alt="juniorloch" />
+<img  src="https://github-readme-stats.vercel.app/api?username=juniorloch&show_icons=true&locale=pt-br&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=juniorloch&hide_border=true&theme=radical" alt="juniorloch" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=juniorloch&hide_border=true&theme=radical&locale=pt-br" alt="juniorloch" />
 </p>
