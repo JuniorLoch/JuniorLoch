@@ -1,4 +1,10 @@
-<h3 align="center">Programador full stack júnior no departamento de informática da @tiUnigran , estudando no 8° semestre de engenharia de software na Unigran</h3>
+<h3 align="center">
+    
+     Programador full stack júnior no departamento de informática da @tiUnigran
+     Formado em engenharia de software na Unigran
+    
+</h3>
+    
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -71,11 +77,7 @@
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorloch&show_icons=true&locale=pt-br&layout=compact&hide_border=true&theme=radical" alt="juniorloch" />
-</p>
-
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=juniorloch&show_icons=true&locale=pt-br&hide_border=true&theme=radical" alt="juniorloch" />
+<img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=juniorloch&show_icons=true&locale=pt-br&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
