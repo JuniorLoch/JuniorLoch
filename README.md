@@ -12,7 +12,7 @@
     </a> 
 </p>
 
-<h3 align="center">Linguagens conhecidas e ferramentas:</h3>
+<h3 align="center">Linguagens e ferramentas conhecidas:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -75,11 +75,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
-
+<br/><br/><br/>
 <p align="center">
-<img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=juniorloch&show_icons=true&locale=pt-br&hide_border=true&theme=radical" alt="juniorloch" />
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juniorloch&show_icons=true&locale=pt-br&hide_border=true&theme=radical" alt="juniorloch" />
 </p>
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juniorloch&hide_border=true&theme=radical&locale=pt-br" alt="juniorloch" />
 </p>
+
+<p align="center">
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=juniorloch&hide_border=true&theme=radical&locale=pt-br" alt="juniorloch" />
+</p>
+
+
