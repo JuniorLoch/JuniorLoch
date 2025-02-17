@@ -1,6 +1,6 @@
 <h3 align="center">
     
-     Programador full stack júnior no departamento de informática da @tiUnigran
+     Programador full stack pleno no departamento de informática da @tiUnigran
      Formado em engenharia de software na Unigran
     
 </h3>
